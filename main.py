@@ -22,4 +22,4 @@ print('Result: ', result)
 
 cv2.imshow("Img", img) # displaying the image
 cv2.imshow('Img 2',img2) # displaying second image
-cv2.waitKey(0) # will wait untill the user presses a key
+cv2.waitKey(0) # freezes the image(frame) until the user presses a key
